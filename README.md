@@ -1,2 +1,2 @@
-# prepcourse-henry
-repositorio mod2
+Braian Balmaceda
+Primer repositorio con git hub
