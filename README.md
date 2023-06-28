@@ -1,2 +1,2 @@
-Braian Balmaceda
-Primer repositorio con git hub
+Repositorio de como clonar desde github a mi escritorio
+
